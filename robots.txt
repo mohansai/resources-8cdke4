@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohansai.github.io/resources-8cdke4/sitemap.xml
